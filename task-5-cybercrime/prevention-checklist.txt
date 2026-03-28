@@ -1,0 +1,20 @@
+ --General Online Safety
+ Use strong, unique passwords for each account (combine letters, numbers, symbols).
+ Enable 2-Factor Authentication (2FA) on email, social media, and banking apps.
+ Avoid using public Wi-Fi for sensitive tasks like banking or logging into important accounts.
+ Keep your devices updated (OS, apps, antivirus) to protect against security vulnerabilities.
+ Do not click on suspicious links received via email, SMS, or social media (phishing scams).
+ Limit personal information sharing on social media (address, phone number, college details).
+ --Financial / UPI Safety (Important)
+ Never share your UPI PIN, OTP, or banking details with anyone—even if they claim to be from the bank.
+ Double-check UPI payment requests before approving—scammers often send “collect” requests instead of payments.
+ Use only official apps like BHIM, Google Pay, PhonePe, or Paytm downloaded from trusted app stores.
+ Set transaction limits and alerts to monitor unauthorized transactions instantly.
+ --Smart Usage Habits
+ Log out from shared or public computers after use (especially in cyber cafes or college labs).
+ Download apps only from trusted sources (Google Play Store / Apple App Store).
+ Be cautious of online job/internship scams asking for registration fees or personal details.
+ Regularly review privacy settings on your social media accounts.
+ --If Something Goes Wrong (Report Immediately)
+ National Cyber Crime Portal: https://cybercrime.gov.in
+ Cyber Crime Helpline: 1930
